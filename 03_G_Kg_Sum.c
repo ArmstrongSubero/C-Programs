@@ -42,17 +42,17 @@ int main(void)
 
 	// enter first weight
 	puts("Enter first weight: ");
-    scanf("%f", &weight1);
+	scanf("%f", &weight1);
 
 	// enter second weight
 	puts("Enter second weight: ");
-    scanf("%f", &weight2);
+	scanf("%f", &weight2);
 
 	// calculate total weight
-    totalWeight = weight1 + weight2;
+	totalWeight = weight1 + weight2;
 
 	// sepatate mantissa from exponent
-    mantissa = totalWeight;
+	mantissa = totalWeight;
 	exponent = totalWeight - mantissa;
 
 	// remove decimal point
