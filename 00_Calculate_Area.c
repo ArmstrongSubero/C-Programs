@@ -30,7 +30,7 @@
 int main(void)
 {
 	// program variables
-    int area, side;
+        int area, side;
 
 	// get side from user
 	printf("Enter length of side: ");
