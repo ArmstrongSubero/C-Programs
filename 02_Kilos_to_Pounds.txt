@@ -32,7 +32,7 @@
 int main(void)
 {
 	// program variables
-    int weightInKilos;
+	int weightInKilos;
 	float weightInPounds;
 	float POUNDS = 2.2;
 
