@@ -33,7 +33,7 @@ int main(void)
 	// character array
 	char name[50];
 	
-    // use strcpy function
+	// use strcpy function
 	strcpy(name, "Alice in wonderland");
 	
 	// print copied string to user
