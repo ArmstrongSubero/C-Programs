@@ -36,7 +36,7 @@ int main(void)
 {
 	// program variables
 	int sum  = 0;
-    int prev = 1;
+	int prev = 1;
 	int next = 1;
 	int fibNum = 1;
 
