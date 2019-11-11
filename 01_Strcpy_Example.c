@@ -30,9 +30,13 @@
 */
 int main(void)
 {
+	// character array
 	char name[50];
 
+    // use strcpy function
 	strcpy(name, "Alice in wonderland");
+	
+	// print copied string to user
 	printf("Hello, %s\n", name);
 
 	return 0;
